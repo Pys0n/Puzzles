@@ -5,7 +5,7 @@ The following applies:
 - Two pairs: sum of the four numbers
 - Three of a kind: sum of the three numbers
 - Four of a kind: sum of the four numbers
-	- Full House: 25 points
+- Full House: 25 points
 - Small Straight (4-card straight): 30 points
 - Big Straight (5-card straight): 40 points
 - Five of a Kind: 50 points
