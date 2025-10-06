@@ -1,0 +1,90 @@
+a 0
+b 1
+c 1
+d 0
+e 1
+f 1
+g 1
+h 0
+i 0
+j 1
+k 0
+l 1
+m 0
+n 1
+o 1
+p 0
+q 0
+r 1
+s 1
+t 1
+u 0
+v 1
+w 0
+x 1
+y 0
+z 1
+o NOR n
+b AND i
+o NAND u
+g AND j
+o NAND p
+p NOR x
+q AND l
+NOT v
+s NOR h
+w AND z
+e AND k
+i NAND b
+l XOR x
+l XOR a
+NOT t
+h NOR s
+z XNOR j
+i NOR z
+f AND l
+a OR y
+NOT r
+h OR a
+j AND z
+n OR o
+a NOR u
+v NOR d
+e OR z
+k XOR n
+h OR c
+v OR l
+s OR o
+q NAND a
+w XNOR k
+k AND x
+z NAND t
+t NAND c
+g OR f
+c NAND s
+i NAND y
+NOT c
+j OR b
+m NAND p
+e XNOR y
+f XOR m
+f AND r
+g XOR a
+NOT v
+b XNOR d
+w NOR g
+t OR x
+NOT m
+s XOR d
+i XNOR z
+a OR j
+b AND n
+NOT z
+t NOR j
+r NAND a
+d XOR i
+x AND i
+e XNOR n
+c OR i
+m OR h
+c OR j
